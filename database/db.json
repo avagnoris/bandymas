@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": "111",
+      "name": "Serbentautas",
+      "surname": "Bordiūras",
+      "email": "user1@gmail.com",
+      "password": "Vilnius123",
+      "img": "https://avatars.githubusercontent.com/u/5399488?s=400&v=4"
+    },
+    {
+      "id": "112",
+      "name": "Jovalas",
+      "surname": "Johanas",
+      "email": "user2@gmail.com",
+      "password": "Vilnius123",
+      "img": "https://media.istockphoto.com/photos/confused-nerd-guy-picture-id168250344?k=20&m=168250344&s=612x612&w=0&h=V7seKY4kuNv1Uym-2J3trEo_ZOOVMCQAR3eqlBnFNVo="
+    },
+    {
+      "id": "113",
+      "name": "Volonija",
+      "surname": "Kūgelė",
+      "email": "user3@gmail.com",
+      "password": "Vilnius123",
+      "img": "https://media.istockphoto.com/photos/geeky-girl-picture-id536217043?k=20&m=536217043&s=612x612&w=0&h=8WxDgS_PY_PO5Iu8xsjNKSuFfpwtoyI-08uLsFxOiZg="
+    },
+    {
+      "email": "user4@gmail.com",
+      "password": "Vilnius123",
+      "id": "kVtPtab"
+    }
+  ],
+  "shopItems": [
+    {
+      "id": "1",
+      "images": [
+        "https://www.ubuy.vn/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNTFhcUNwa2xJSUwuX0FDX1NMMTAwMF8uanBn.jpg"
+      ],
+      "price": 199.99,
+      "categories": [
+        "artilery",
+        "hobies"
+      ],
+      "amount": 0,
+      "additionalProps": {
+        "arrowCount": "27",
+        "distance": "200m"
+      }
+    },
+    {
+      "id": "2",
+      "images": [
+        "https://www.ubuy.com/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNjFINEpETHJHREwuX0FDX1NMMTAwMF8uanBn.jpg"
+      ],
+      "price": 39.99,
+      "categories": [
+        "artilery",
+        "hobies"
+      ],
+      "amount": 24
+    },
+    {
+      "id": "3",
+      "images": [
+        "https://i0.wp.com/sabersmith.com/wp-content/uploads/2020/07/Hand-Half-Gold-Black-on-Green-with-Wire.jpg?fit=800%2C1200&ssl=1"
+      ],
+      "price": 479.99,
+      "categories": [
+        "close-combat",
+        "hobies"
+      ],
+      "amount": 4,
+      "additionalProps": {
+        "length": "1.2m"
+      }
+    }
+  ]
+}
